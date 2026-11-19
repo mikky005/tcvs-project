@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="tcvs_admin/tcvs_admin.csproj" />
+  <Project Path="tcvs_Api/tcvs_Api.csproj" />
+  <Project Path="tcvs_core/tcvs_core.csproj" />
+  <Project Path="tcvs_infrastructure/tcvs_infrastructure.csproj" />
+</Solution>

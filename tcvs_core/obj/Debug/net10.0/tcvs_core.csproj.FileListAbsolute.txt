@@ -1,0 +1,11 @@
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\bin\Debug\net10.0\tcvs_core.deps.json
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\bin\Debug\net10.0\tcvs_core.dll
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\bin\Debug\net10.0\tcvs_core.pdb
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\tcvs_core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\tcvs_core.AssemblyInfoInputs.cache
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\tcvs_core.AssemblyInfo.cs
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\tcvs_core.csproj.CoreCompileInputs.cache
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\tcvs_core.dll
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\refint\tcvs_core.dll
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\tcvs_core.pdb
+C:\Users\onibo\Documents\reporsitory\tcvs\tcvs_core\obj\Debug\net10.0\ref\tcvs_core.dll

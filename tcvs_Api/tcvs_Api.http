@@ -1,0 +1,6 @@
+@tcvs_Api_HostAddress = http://localhost:5038
+
+GET {{tcvs_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
